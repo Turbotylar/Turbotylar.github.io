@@ -1,9 +1,3 @@
-# Turbotylar.github.io
-<div>Rawr :3</div>
-<a href="https://minecraft.net/en-us/download">link text</a>
-<div>
-  | Name | ? | 
-  | --- | ---|
-  | Bob | Yes |
-  | Not Bob | No |
-</div>
+# Turbotylar
+<divWonder what this is</div>
+<a href="ttylar.com">who knows?</a>
